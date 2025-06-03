@@ -15,3 +15,9 @@ CR2032 Battery Cell x2
 
 # What Does It DO?
 This small fella is powered by two batteries and holds 6 LED's a mini motor disc and a buzzer. With the help of an astable multivibrator constatly switches between two states when power is provided and while the switcherooo occurs LED's in groups of 3 flash on and off while the motor and the buzzer also turn on in small bursts in sync with the groups of LED's.
+
+# Made By DILIP ACHARYA
+Slack ID: acharyamission6
+Made in a ADHD Hyperfocus state.
+He'll spend the next month in recovery mode
+Peace!
