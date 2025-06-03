@@ -22,6 +22,8 @@ This small fella is powered by two batteries and holds 6 LED's a mini motor disc
 ![image](https://github.com/user-attachments/assets/d7005485-3ea5-41b6-ae4a-7347dd56de52)
 ![image](https://github.com/user-attachments/assets/fef13c33-ef03-448d-9351-1631d034996f)
 ![image](https://github.com/user-attachments/assets/80f728a5-d961-459f-9d46-829498bcf7d9)
+![image](https://github.com/user-attachments/assets/fc31ff84-623c-47d4-8523-83afe1d1f3ab)
+
 
 
 
