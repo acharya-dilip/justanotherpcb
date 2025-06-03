@@ -3,8 +3,8 @@ This is a PCB that holds chaos press the button to get a glimpse of what it hold
 
 # Materials List:
 LED's x6
-Resistor (220) x8
-Resistor (4.7k) x2
+Resistor (220) x6
+Resistor (4.7k) x4
 Resistor (47k) x2
 Transistor (NPN) x2
 Capacitor (10uf) x2
